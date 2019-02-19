@@ -1,7 +1,7 @@
 # Личный проект «Большое путешествие» [![Build status][travis-image]][travis-url]
 
 * Студент: [Кристина Гордеева](https://up.htmlacademy.ru/ecmascript/8/user/987507).
-* Наставник: `Неизвестно`.
+* Наставник: [Артем Рудов](https://htmlacademy.ru/profile/artrudov).
 
 ---
 
